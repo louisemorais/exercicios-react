@@ -8,8 +8,8 @@ function Header(){
     </header>
                   
     <nav className='navbar'>
-        <a href="#sobreNos">sobre</a>
-        <a href="#porqueInvestir">Benefícios</a>
+        <a href="#sobre-Nos">sobre</a>
+        <a href="#porque-Investir">Benefícios</a>
         <a href="#produto">produtos</a>
         <a href="#orcamento">contato</a>
     </nav>
