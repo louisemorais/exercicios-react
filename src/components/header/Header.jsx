@@ -9,7 +9,7 @@ function Header(){
                   
     <nav className='navbar'>
         <a href="#sobre-Nos">sobre</a>
-        <a href="#porque-Investir">Benefícios</a>
+        <a href="#porque-investir">Benefícios</a>
         <a href="#produto">produtos</a>
         <a href="#orcamento">contato</a>
     </nav>

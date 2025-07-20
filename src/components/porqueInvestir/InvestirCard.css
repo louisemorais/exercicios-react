@@ -9,3 +9,10 @@
   padding: 25px;
   gap: 10px;
 }
+
+.porqueinvestir-item:hover{
+  transform: scale(1.05);
+  transition: 0.3s;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+
+}
