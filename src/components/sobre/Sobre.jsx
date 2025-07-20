@@ -2,7 +2,7 @@ import './SobreStyle.css'
 
 function Sobre(){
     return(<>
-    <section className='sobreNos' id='sobre-Nos'>
+      <section className='sobreNos' id='sobre-Nos'>
             <div className='sobrenosContent'>
               <h2>sobre nós</h2>
               <img src="./src/assets/placaSolar.png" alt="imagem de telhado" />
@@ -20,7 +20,7 @@ function Sobre(){
                     </ul>
                 </div>
             </div>
-        </section>
+      </section>
     </>)
 }
 export default Sobre

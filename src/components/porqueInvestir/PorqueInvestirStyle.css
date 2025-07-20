@@ -1,0 +1,41 @@
+.porqueInvestir {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px 0 70px 0;
+}
+
+.porqueInvestir-content {
+  width: 100%;
+  max-width: 960px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.porqueInvestir-content h2 {
+  font-size: 28px;
+  font-weight: bolder;
+  color: #0a563e;
+  text-transform: capitalize;
+}
+
+.porqueinvestir-item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  background-color: #e3f5ec;
+  border-left: 4px solid #2b7351;
+  border-radius: 8px;
+  padding: 25px;
+  gap: 10px;
+}
+
+.organizandoCards{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 20px;
+}

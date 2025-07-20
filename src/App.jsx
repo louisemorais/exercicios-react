@@ -2,6 +2,7 @@ import './App.css'
 import Footer from './components/footer/Footer';
 import Header from './components/header/Header';
 import Sobre from './components/sobre/Sobre';
+import PorqueInvestir from './components/porqueInvestir/PorqueInvestir';
 
 function App() {
 
@@ -10,11 +11,7 @@ function App() {
       <div>
         <Header/>
         <Sobre/>
-
-        <section id="porque-investir">
-          <h2>Por que investir em Energia Solar?</h2>
-        </section>
-        
+        <PorqueInvestir/>
         <Footer/>
       </div>
     </>

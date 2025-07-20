@@ -1,0 +1,11 @@
+.porqueinvestir-item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  background-color: #e3f5ec;
+  border-left: 4px solid #2b7351;
+  border-radius: 8px;
+  padding: 25px;
+  gap: 10px;
+}
