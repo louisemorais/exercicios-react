@@ -4,6 +4,7 @@ import Header from './components/header/Header';
 import Sobre from './components/sobre/Sobre';
 import PorqueInvestir from './components/porqueInvestir/PorqueInvestir';
 import Produto from './components/produtos/Produto';
+import Formulario from './components/formulario/Formulario';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
         <Sobre/>
         <PorqueInvestir/>
         <Produto/>
+        <Formulario/>
         <Footer/>
       </div>
     </>
